@@ -104,7 +104,7 @@ cd CodexLab
 
 ```bash
 python3 -m venv .venv
-source .venv/bin/activate
+source .venv/scripts/activate
 ```
 
 Suggested Codex prompt:
